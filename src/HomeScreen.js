@@ -3,18 +3,14 @@ import Banner from './Banner';
 import './HomeScreen.css';
 import Nav from './Nav';
 
-
-
 function HomeScreen() {
-    return (
+  return (
     <div className="homeScreen">
-        <Nav />
-
-        <Banner />
-
-        {/* Row */}
+      <Nav />
+      <Banner />
+      {/* Add more components or content here */}
     </div>
-    );
+  );
 }
 
 export default HomeScreen;
