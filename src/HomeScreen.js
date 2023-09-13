@@ -8,7 +8,7 @@ function HomeScreen() {
     <div className="homeScreen">
       <Nav />
       <Banner />
-      {/* Add more components or content here */}
+      
     </div>
   );
 }
