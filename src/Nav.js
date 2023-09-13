@@ -5,6 +5,7 @@ function Nav() {
   return (
     <div className="nav">
       <h1>This is the nav</h1>
+      <h2>There is an content </h2>
     </div>
   );
 }
