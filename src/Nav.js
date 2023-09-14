@@ -4,7 +4,8 @@ import "./Nav.css";
 function Nav() {
   return (
     <div className="nav">
-      <img src="" alt=""  
+      <img 
+      className='nav_logo'  src="" alt=""  
       />
     </div>
   );
