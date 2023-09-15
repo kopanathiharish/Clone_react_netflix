@@ -8,7 +8,7 @@ function HomeScreen() {
     <div className="homeScreen">
       <Nav />
       <Banner />
-      <h1>the title net</h1>
+      <h1>the title netf</h1>
     </div>
   );
 }
