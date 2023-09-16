@@ -9,7 +9,8 @@ function Nav() {
       />
       <h1>clear </h1>
       <ul>
-        <li>updates</li>
+        <li>content</li>
+        <li>clear</li>
         <li>About</li>
       </ul>
     </div>
