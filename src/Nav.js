@@ -8,6 +8,9 @@ function Nav() {
       className='nav_logo'  src="" alt=""  
       />
       <h1>clear </h1>
+      <ul>
+        
+      </ul>
     </div>
   );
 }
