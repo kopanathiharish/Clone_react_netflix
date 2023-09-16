@@ -9,6 +9,7 @@ function Nav() {
       />
       <h1>clear </h1>
       <ul>
+        <li>clear</li>
         
       </ul>
     </div>
