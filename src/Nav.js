@@ -7,6 +7,7 @@ function Nav() {
       <img 
       className='nav_logo'  src="" alt=""  
       />
+      <h1>clear </h1>
     </div>
   );
 }
