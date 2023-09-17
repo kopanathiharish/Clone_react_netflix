@@ -10,6 +10,7 @@ function Nav() {
       <h1>clear </h1>
       <ul>
         <li>content</li>
+        <li>clear</li>
       </ul>
     </div>
   );
