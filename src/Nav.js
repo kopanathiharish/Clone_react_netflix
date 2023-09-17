@@ -12,7 +12,6 @@ function Nav() {
         <li>content</li>
         <li>clear</li>
         <li>About</li>
-        <li
       </ul>
     </div>
   );
