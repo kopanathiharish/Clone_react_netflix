@@ -12,7 +12,7 @@ function Nav() {
         <li>content</li>
         <li>clear</li>
         <li>About</li>
-        <li>profile</li>
+        <li
       </ul>
     </div>
   );
