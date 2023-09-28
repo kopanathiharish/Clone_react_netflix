@@ -4,7 +4,15 @@ import './Banner.css';
 
 function Banner() {
   return (
-    <div className="Banner"></div>
+    <header
+      className="banner" 
+    style={{
+      backgroundSize: "cover",
+      backgroundImage: `url("https://cdn.freebiesupply.com/logos/large/2x/netflix-logo-png-transparent.png")`,
+      backgroundPosition: "center center",
+    }}
+    ></header>
+    
   )
 }
 
