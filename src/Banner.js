@@ -6,12 +6,22 @@ function Banner() {
   return (
     <header
       className="banner" 
-    style={{
+      style={{
       backgroundSize: "cover",
-      backgroundImage: `url("https://cdn.freebiesupply.com/logos/large/2x/netflix-logo-png-transparent.png")`,
+      backgroundImage: `url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAA1BMVEUAAACnej3aAAAASElEQVR4nO3BMQEAAADCoPVPbQhfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeA8XKAAFZcBBuAAAAAElFTkSuQmCC")`,
       backgroundPosition: "center center",
-    }}
-    ></header>
+      }}
+    >
+      <div className="banner_contents">
+        <h1 className="banner_title">Movie Name</h1>
+        <div className="banner_buttons">
+          <button className="banner_button">Play</button>
+          <button className="banner_button">My List</button>
+        </div>
+        <h1 className="banner_description">This is the description</h1>
+      </div>
+      <div className="banner--fadeBottom"/>
+    </header>
     
   )
 }
