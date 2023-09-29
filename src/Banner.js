@@ -3,6 +3,10 @@ import './Banner.css';
 
 
 function Banner() {
+
+  function truncate(string, n) {
+    return string?.length > n ? string.substr(0, n - 1) + '...' : string; 
+  }
   return (
     <header
       className="banner" 
