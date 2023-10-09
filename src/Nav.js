@@ -17,7 +17,6 @@ useEffect (() => {
   return () => window.removeEventListener('scroll', transitionNavBar);
 }, []);
 
-
   return (
     <div className={`nav ${show && `nav_black`}`}>
       <div className="nav_contents">
