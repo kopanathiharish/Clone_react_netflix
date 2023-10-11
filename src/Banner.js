@@ -1,6 +1,9 @@
 import React from 'react';
 import './Banner.css';
-import
+
+
+
+
 function Banner() {
 
   function truncate(string, n) {
