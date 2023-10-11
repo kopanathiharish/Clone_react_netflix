@@ -1,7 +1,7 @@
 import React from 'react';
 import './Banner.css';
 
-
+import './firebase';
 function Banner() {
 
   function truncate(string, n) {
