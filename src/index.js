@@ -5,6 +5,7 @@ import { store } from './app/store';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
+import { modifySelection } from '@testing-library/user-event/dist/types/event/selection';
 
 const container = document.getElementById('root');
 const root = createRoot(container);
@@ -17,7 +18,16 @@ root.render(
   </React.StrictMode>
 );
 // CLEAR
+// clefnfd
 
+fdsdfsf4;framesjnfsafsfm describemfmsan
+fks
+jbsdf
+modifySelectionsdsr
+jnfgp
+nglk
+nh
+ngl
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
