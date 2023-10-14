@@ -23,8 +23,6 @@ root.render(
 fdsdfsf4; 
 fks
 jbsdf
-modifySelectionsdsr
-jnfgp
 nglk
 
 // If you want to start measuring performance in your app, pass a function
