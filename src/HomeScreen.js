@@ -12,5 +12,6 @@ function HomeScreen() {
     </div>
   );
 }
-// there is any updates to work
 export default HomeScreen;
+
+
