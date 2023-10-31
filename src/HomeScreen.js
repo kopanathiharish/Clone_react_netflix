@@ -3,7 +3,7 @@ import Nav from './Nav'
 import Banner from './Banner';
 import './HomeScreen.css';
 ;
-
+// function makes a call to understand there is importance 
 function HomeScreen() {
   return (
     <div className="homeScreen">
