@@ -6,4 +6,6 @@ const firebaseConfig = {
     messagingSenderId: "985221457711",
     appId: "1:985221457711:web:4d3ce81a7469ac8743e3da"
 };
-// there is acess to undrstn the compa
+// there is acess to undrstn the company \
+// te
+// 
