@@ -35,6 +35,3 @@ useEffect (() => {
 
 export default Nav;
 //
-
-///
-//
