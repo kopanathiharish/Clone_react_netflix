@@ -18,3 +18,5 @@ export default App;
 // create the more ideas
 // low to understand core ideas
 
+// learn to understand all the core
+
