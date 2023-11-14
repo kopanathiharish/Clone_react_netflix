@@ -16,4 +16,5 @@ function App() {
 export default App;
 // complete the core
 // create the more ideas
+// low to understand core ideas
 
