@@ -15,4 +15,5 @@ function App() {
 
 export default App;
 // complete the core
+// create the more ideas
 
