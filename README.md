@@ -47,3 +47,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Clone_react_netflix
 
 To understand there is any update **to core ares**
+
+Create the access to uderstand t
