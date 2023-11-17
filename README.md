@@ -48,6 +48,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 To understand there is any update **to core ares**
 
-Create the access to uderstand .
-
-clear
