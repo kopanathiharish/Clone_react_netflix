@@ -47,5 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Clone_react_netflix
 
 
-# clear the contentst to understand there is any update
-
+# clear the contentst to understand there is any
