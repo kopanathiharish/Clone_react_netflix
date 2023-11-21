@@ -48,4 +48,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 clear
 
-how to understand to complete
