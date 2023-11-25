@@ -47,8 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Clone_react_netflix
 clear
  the 
- understand 
-
  all to understand 
 
 
