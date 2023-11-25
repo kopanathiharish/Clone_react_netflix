@@ -49,7 +49,7 @@ clear
  the 
  understand 
 
-
+i was really 
  all to understand 
 
 
