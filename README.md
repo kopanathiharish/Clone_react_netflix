@@ -52,5 +52,4 @@ gdhfgidhge g
 egjdv 
 dvhdjmv dsvbdjd 
 ggihdfjg d
-gdgkld g
-idhges
+gdgkld 
