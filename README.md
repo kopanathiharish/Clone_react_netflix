@@ -48,6 +48,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 clear 
 the maeket h0iif=shfjnfojfsf
-gdhfgidhge g
-egjdv 
-gdgkld 
