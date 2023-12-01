@@ -50,5 +50,4 @@ clear
 the maeket h0iif=shfjnfojfsf
 gdhfgidhge g
 egjdv 
-dvhdjmv dsvbdjd 
 gdgkld 
