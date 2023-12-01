@@ -46,4 +46,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 # Clone_react_netflix
 
-
+clear 
+the maeket h0iif=shfjnfojfsf
+gdhfgidhge g
+egjdv 
+dvhdjmv dsvbdjd 
+ggihdfjg d
+gdgkld g
+idhges
