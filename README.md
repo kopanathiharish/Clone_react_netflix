@@ -47,4 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Clone_react_netflix
 
 
-hsis gashgjh fiogj sdfjvdoks
+hsis gashgjh fiogj s
