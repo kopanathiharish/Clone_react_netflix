@@ -47,3 +47,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Clone_react_netflix
 
 
+clear 
+ t
+ e
+ e
+ fas // 
+ // 
+ 
