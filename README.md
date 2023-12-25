@@ -51,5 +51,3 @@ msv
 vsdf
 
 
-dfg
-dg
