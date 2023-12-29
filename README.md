@@ -48,7 +48,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 elomnjgdhadosgj
 \dsffa
 fsjkf
-afdsf
- dsggdg
- 
 
