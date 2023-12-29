@@ -50,8 +50,5 @@ elomnjgdhadosgj
 fsjkf
 afdsf
  dsggdg
- dgg
- dg
- dg
-
  
+
