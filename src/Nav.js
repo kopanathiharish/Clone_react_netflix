@@ -37,4 +37,3 @@ export default Nav;
 
 
 
-// interact with ai to understand the core areas
