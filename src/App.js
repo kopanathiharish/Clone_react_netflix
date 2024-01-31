@@ -12,7 +12,5 @@ function App() {
   );
 }
 
-
 export default App;
-// complete the core
 
