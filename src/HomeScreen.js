@@ -14,4 +14,5 @@ function HomeScreen() {
 }
 export default HomeScreen;
 
+// learn to understand the core
 
