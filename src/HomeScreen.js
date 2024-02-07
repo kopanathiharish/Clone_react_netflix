@@ -16,5 +16,3 @@ export default HomeScreen;
 
 // learn to understand the core.
 // herbal jam
-// Love to have you 
-
