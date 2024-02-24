@@ -14,5 +14,3 @@ function HomeScreen() {
 }
 export default HomeScreen;
 
-
-// ,arlnsdf
